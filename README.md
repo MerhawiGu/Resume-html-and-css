@@ -1,2 +1,2 @@
-# Resume-html-and-css
+# Simple Responsive CV HTML and CSS 
 ![](img/resumeimg.PNG)
